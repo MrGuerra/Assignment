@@ -1,0 +1,12 @@
+﻿global using System.Text.Json;
+global using System.Text.Json.Serialization;
+global using System.Reflection;
+global using Microsoft.AspNetCore.OData;
+global using Microsoft.AspNetCore.OData.Query;
+global using Microsoft.AspNetCore.OData.Routing.Controllers;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Caching.Memory;
+global using Microsoft.OpenApi.Models;
+global using Assignment.Services;
+global using Assignment.Responses;
+global using Assignment.Models;
